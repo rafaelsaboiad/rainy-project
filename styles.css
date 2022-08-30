@@ -4,23 +4,3 @@
     font-family: 'Noto Sans', sans-serif;
     text-align: center;
 }
-
-h1{
-    font-family: 'Noto Sans';
-}
-
-.container {
-    position: relative;
-    width: 100vw;
-    background-color: grey;
-    align-items: center;
-}
-.chart-canvas {
-    position: absolute;
-    background-color: gainsboro;
-    width: 60%;
-}
-
-#canvas{
-    width: 100%;
-}
